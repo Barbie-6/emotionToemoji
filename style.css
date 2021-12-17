@@ -1,0 +1,42 @@
+body
+{
+  color: black;
+  background: #ffcad3;
+}
+.heading {
+  font-size: 20 px;
+  border-radius: 10px;
+  letter-spacing: 5px;
+  font-variant: small-caps;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+label {
+  background-color: honeydew;
+  font-size: 14px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  color: indigo;      
+  border-radius: 5px;
+  padding: 5px;
+}
